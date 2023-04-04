@@ -30,9 +30,9 @@ Project is created with:
 |   └── activemq
 |       |── quarkus-activemq-producer 
 |       └── quarkus-activemq-consumer
-|   └── kafka
-|       |── quarkus-kafka-producer
-|       └── quarkus-kafka-consumer
+|   └── rabbitmq
+|       |── quarkus-rabbitmq-producer
+|       └── quarkus-rabbitmq-consumer
 |   └── kafka
 |       |── quarkus-kafka-producer
 |       └── quarkus-kafka-consumer
